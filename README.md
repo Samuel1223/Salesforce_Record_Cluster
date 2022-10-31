@@ -8,6 +8,7 @@ we fetch 4 objects from salesforce
 * Opportunity 
 * opportunity Product
 * Product
+* More
 
 1. We use SQL query to fetch the fields we need. 
 2. Then we join them together into a informative table. 
